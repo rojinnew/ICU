@@ -1,3 +1,7 @@
+
+
+![Image](https://github.com/rojinnew/mortality_prediction/blob/master/plot/image.png)
+
 Hardware platform for all experiments: HP Z240 Wokstation - Intel Core i7-7700 3.60GHz having 4 physical cores and 8 logical processors with 8MB Cache and 64GB of DDR4 RAM
 
 Step #1: Preprocessing with Python (64-bit version)
