@@ -1,9 +1,9 @@
-###Genral Information###
+### Genral Information
 This project focuses on delivering a reliable mortality prediction model for patients in the intensive care unit (ICU) using a combination of structured and latent topic features. The meaningful topics relevant to each clinical note are extracted from free-text hospital notes using Latent Dirichlet Allocation model. Several binary classifiers, such as Logistic Regression (LR), Linear Support Vector Machines (SVM), Random Forest (RF), and Gradient Boosted Trees (GBT), are implemented using Scala for prediction task, enabling comparative performance evaluation that was not a part of the seminal work, which only utilized the Linear SVM classifier. The final models are evaluated through the area under the receiver operating characteristic curve (AUROC) and area under precisionrecall curve (AUPR) using both training and testing data derived from the ICU data in the MIMIC-III database.
 
 ![Image](https://github.com/rojinnew/mortality_prediction/blob/master/plot/image.png)
 
-###Running###
+### Running
 
 Step #1: Preprocessing with Python (64-bit version)
 
