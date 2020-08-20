@@ -45,5 +45,7 @@ NOTE: AllNote.scala reads the severity scores from the hardcoded CSV filenames t
 
 - All (24) ROC plots can also be found in the code folder when the execution is completed.
 
-Refrences: MIT Laboratory for Computational Physiology. MIMIC Code Repository: MIMIC-III database. 2018.
+### Refrences 
+
+MIT Laboratory for Computational Physiology. MIMIC Code Repository: MIMIC-III database. 2018.
 https://mimic.physionet.org.
