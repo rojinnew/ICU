@@ -4,7 +4,7 @@ This project focuses on delivering a reliable mortality prediction model for pat
 </p> 
 
 <p align = "center">
-	<img width="100" src = "https://github.com/rojinnew/mortality_prediction/blob/master/image.png">
+	<img width="800" src = "https://github.com/rojinnew/mortality_prediction/blob/master/image.png">
 </p>
 
 ### Running
